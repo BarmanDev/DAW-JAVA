@@ -1,4 +1,4 @@
-package Programacion_A.EjerciciosLibro;
+package Programacion_A.Ejercicios;
 
 import java.io.BufferedReader;
 import java.io.IOException;
