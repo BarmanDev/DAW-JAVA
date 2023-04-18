@@ -1,4 +1,4 @@
-package Programacion_A.Ejercicios;
+package Programacion_A.Ejercicios.EstrucControl;
 
 import java.io.BufferedReader;
 import java.io.IOException;
