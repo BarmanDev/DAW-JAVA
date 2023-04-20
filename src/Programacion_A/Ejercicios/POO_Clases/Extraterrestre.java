@@ -1,4 +1,4 @@
-package Programacion_A.POO_Clases;
+package Programacion_A.Ejercicios.POO_Clases;
 
 // Clase Extraterrestre
 class Extraterrestre {

@@ -1,4 +1,4 @@
-package Programacion_A.POO_Clases;
+package Programacion_A.Ejercicios.POO_Clases;
 
 public class CabezaWorld {
         public static void main(String[] args) {
